@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdclans&show_icons=true&theme=dracula)
+## Tools
+
+<img src="https://skillicons.dev/icons?i=php,html,css,js,python,c,cpp,matlab" />
+
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,redis,postgresql,mysql,github,git,idea,nextjs,tailwind,fastapi,flask,figma,apache,debian,ubuntu,vscode,visualstudio,geogebra" />
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hdclans&show_icons=true&theme=dracula&hide_progress=true)
+
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hdclans&hide_progress=true&langs_count=10&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
