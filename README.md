@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,cpp,matlab" />
 
-<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,redis,postgresql,mysql,github,git,idea,nextjs,tailwind,fastapi,flask,figma,apache,debian,ubuntu,vscode,visualstudio,geogebra" />
+<img src="https://skillicons.dev/icons?i=linux,docker,postgresql,mysql,github,git,figma,apache,debian,ubuntu,vscode,visualstudio,geogebra" />
 
 ## GitHub Stats
 
