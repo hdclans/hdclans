@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I’m Hugo 
+
+I’m a **first-year computer engineering student** at **CESI Orléans**, specializing in **web and software development**. 
+Passionate about **technological innovation**, I’m pursuing my studies with a focus on **artificial intelligence**. 
+
+🌐 Check out my portfolio: [hugodaugeron.com](https://www.hugodaugeron.com/)
 
 ## Tools
 
