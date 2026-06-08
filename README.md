@@ -13,6 +13,6 @@ Passionate about **technological innovation**, I’m pursuing my studies with a 
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hdclans&show_icons=true&theme=dracula&hide_progress=true)
+![GitHub stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hdclans&hide_progress=true&langs_count=10&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](./profile/top-langs.svg)
