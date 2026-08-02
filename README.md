@@ -13,6 +13,6 @@ Passionate about **technological innovation**, I’m pursuing my studies with a 
 
 ## GitHub Stats
 
-![GitHub stats](./profile/stats.svg)
+<!-- ![GitHub stats](./profile/stats.svg) -->
 
 ![Top Langs](./profile/top-langs.svg)
